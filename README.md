@@ -1,6 +1,6 @@
-# Register_System
-Register website with MySQL
+# Register Website
 
-Website created with MySQL for a college project.
+Developed with HTML, PHP and MySQL for a college project.<br>
+*(HTML is written inside PHP)*
 
-The idea was to create a Database that keeps informatio related to NAME, LAST NAME and AGE about the user.
+The idea was to create a Database that keeps information related to NAME, LAST NAME and AGE about the user.
